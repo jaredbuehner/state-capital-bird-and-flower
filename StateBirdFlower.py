@@ -1,9 +1,3 @@
-# StateBirdFlower.py
-# Author: Jared Buehner
-# Class: SDEV 300
-# Professor: Muhammad Khan
-# Date: 06/08/2020
-
 # State data.
 states_data = {
     "alabama": ["Capital: Montgomery", "Bird: Yellowhammer", "Flower: Camellia"],
